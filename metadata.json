@@ -6,41 +6,6 @@
     "templateType":"standard",
     "pageTypes":["home"],
     "screenshot":"screenshot.jpg",
-    "images":[
-    ],
-    "fontSwatch": {
-       "title": "Acta & Questa Sans",
-        "font1": {
-            "font-family": "\"Playfair Display\", Times New Roman, serif"
-        },
-        "font2": {
-            "font-family": "\"Playfair Display\", Times New Roman, serif"
-        },
-        "font3": {
-            "font-family": "\"Playfair Display\", Times New Roman, serif"
-        },
-        "font4": {
-            "font-family": "\"Playfair Display\", Times New Roman, serif"
-        },
-        "font5": {
-            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif"
-        },
-        "font6": {
-            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif"
-        },
-        "font7": {
-            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif"
-        },
-        "font8": {
-            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif"
-        },
-        "font9": {
-            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif",
-        },
-        "font10": {
-            "font-family": "\"Playfair Display\", Times New Roman, serif"
-        }
-    },
     "styles": {
         "colors": {
             "color__primary": "#2B2B3C",
