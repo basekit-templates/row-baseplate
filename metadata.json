@@ -1,0 +1,139 @@
+{
+    "name":"Row Baseplate",
+    "preprocessor": "sass",
+    "widgetVersion": 2,
+    "thumbnail":"thumbnail.png",
+    "templateType":"standard",
+    "pageTypes":["home"],
+    "screenshot":"screenshot.jpg",
+    "images":[
+    ],
+    "fontSwatch": {
+       "title": "Acta & Questa Sans",
+        "font1": {
+            "font-family": "\"Playfair Display\", Times New Roman, serif"
+        },
+        "font2": {
+            "font-family": "\"Playfair Display\", Times New Roman, serif"
+        },
+        "font3": {
+            "font-family": "\"Playfair Display\", Times New Roman, serif"
+        },
+        "font4": {
+            "font-family": "\"Playfair Display\", Times New Roman, serif"
+        },
+        "font5": {
+            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif"
+        },
+        "font6": {
+            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif"
+        },
+        "font7": {
+            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif"
+        },
+        "font8": {
+            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif"
+        },
+        "font9": {
+            "font-family": "\"Rubik\", Geneva, \"Lucida Console\", sans-serif",
+        },
+        "font10": {
+            "font-family": "\"Playfair Display\", Times New Roman, serif"
+        }
+    },
+    "styles": {
+        "colors": {
+            "color__primary": "#2B2B3C",
+            "color__secondary": "#998D5E"
+        },
+        "site": {
+            "color__body--background": "#ffffff",
+            "color__container--background": "#ffffff",
+            "color__link--text": "@color__secondary",
+            "font__companyname--font-family": "@font-swatch10-font-family",
+            "font__companyname--font-size": "24px",
+            "font__companyname--line-height": "32px",
+            "font__companyname--font-weight": "700",
+            "font__companyname--letter-spacing": "0px",
+            "color__companyname--text": "#2B2B3C"
+        },
+        "navigation": {
+            "font__navigation--font-family": "@font-swatch5-font-family",
+            "font__navigation--font-size": "30px",
+            "font__navigation--font-weight": "400",
+            "font__navigation--line-height": "32px",
+            "font__navigation--letter-spacing": "0px",
+            "color__navigation--background": "#ffffff",
+            "color__navigation--text": "#2B2B3C",
+            "color__navigation--text--selected": "#2B2B3C"
+        },
+        "header": {
+            "color__header--background": "#ffffff"
+        },
+        "footer": {
+            "color__footer--background": "#ffffff"
+        },
+        "typography": {
+            "font__h1--font-family": "@font-swatch1-font-family",
+            "font__h1--font-size": "92px",
+            "font__h1--line-height": "86px",
+            "font__h1--font-weight": "700",
+            "font__h1--letter-spacing": "0px",
+            "color__h1--text": "#2B2B3C",
+            "font__h2--font-family": "@font-swatch2-font-family",
+            "font__h2--font-size": "46px",
+            "font__h2--line-height": "52px",
+            "font__h2--font-weight": "700",
+            "font__h2--letter-spacing": "0px",
+            "color__h2--text": "#2B2B3C",
+            "font__h3--font-family": "@font-swatch3-font-family",
+            "font__h3--font-size": "40px",
+            "font__h3--font-weight": "700",
+            "font__h3--line-height": "48px",
+            "font__h3--letter-spacing": "0px",
+            "color__h3--text": "#2B2B3C",
+            "font__h4--font-family": "@font-swatch4-font-family",
+            "font__h4--font-size": "32px",
+            "font__h4--font-weight": "700",
+            "font__h4--line-height": "36px",
+            "font__h4--letter-spacing": "0px",
+            "color__h4--text": "#2B2B3C",
+            "font__p--font-family": "@font-swatch5-font-family",
+            "font__p--font-size": "20px",
+            "font__p--font-weight": "500",
+            "font__p--line-height": "34px",
+            "font__p--letter-spacing": "0px",
+            "color__p--text": "#65656E"
+        },
+        "button": {
+            "font__button--font-family": "@font-swatch5-font-family",
+            "font__button--font-size": "15px",
+            "font__button--font-weight": "500",
+            "font__button--line-height": "24px",
+            "font__button--letter-spacing": "2px",
+            "color__button--background": "#998D5E",
+            "color__button--text": "#ffffff",
+            "color__button--background--hover": "#827852",
+            "color__button--text--hover": "@color__button--text"
+        },
+        "socialicons": {
+            "color__socialicons--icon--background" : "#979fa1",
+            "color__socialicons--icon" : "#fff"
+        },
+        "form": {
+            "color__form-legend--text" : "#1e1e1e",
+            "color__form-label--text" : "#969696",
+            "color__form--background" : "#f5f5f5"
+        },
+        "image": {
+            "color__image-caption--background": "rgba(0,0,0, 0.45)",
+            "color__image-title--text": "#fff",
+            "color__image-description--text": "#bebebe"
+        },
+        "gallery": {
+            "color__gallery-caption--background" : "#fff",
+            "color__gallery-title--text" : "@color__h2--text",
+            "color__gallery-description--text" : "@color__p--text"
+        }
+    }
+}
